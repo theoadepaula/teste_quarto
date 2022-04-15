@@ -1,0 +1,13 @@
+---
+title: "Começando a usar o arquivo qmd"
+format: gfm
+---
+
+Através desse arquivo estou começando a escrever pelo formato Quarto, ao invés do rmarkdown. Há muitas novidades e gostaria de ir testando esses tipos de formatos de saída que ele pode oferecer.
+
+Um desses formatos acaba gerando o readme do Github.
+
+```{r}
+str(mtcars)
+plot(mtcars$mpg,mtcars$wt)
+```

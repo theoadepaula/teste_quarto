@@ -1,6 +1,6 @@
 ---
 title: "teste_quarto"
-format: html
+format: gfm
 bibliography: references.bib
 ---
 
