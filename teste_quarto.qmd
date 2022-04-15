@@ -1,0 +1,17 @@
+---
+title: "teste_quarto"
+format: html
+bibliography: references.bib
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>. [@knuth1984]
+
+[@pinto2019]
+
+[@yoshida2014]
+
+```{r}
+1 + 1
+```
